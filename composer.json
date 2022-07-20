@@ -1,5 +1,5 @@
 {
-    "name": "tott/laravel-model-notes",
+    "name": "digitalcloud/laravel-model-notes",
     "description": "A package to enable assigning notes to Eloquent Models",
     "keywords": [
         "digitalcloud",
